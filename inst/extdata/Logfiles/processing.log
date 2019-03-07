@@ -1,0 +1,123 @@
+TRACE [2019-01-05 01:44:33] Logging to C:/Users/YIHANWU/Documents/Stuff/CAnutrients/inst/extdata/Logfiles/processing.log
+TRACE [2019-01-05 01:44:33] Processing data
+TRACE [2019-01-05 01:44:33] Reading yaml configuration
+TRACE [2019-01-05 01:44:33] Found C:/Users/YIHANWU/Documents/Stuff/CAnutrients/data-raw/cnf_processing.Rmd
+TRACE [2019-01-05 01:44:33] Processing 1 of 1: C:/Users/YIHANWU/Documents/Stuff/CAnutrients/data-raw/cnf_processing.Rmd
+
+TRACE [2019-01-05 01:44:41] 12 data set(s) created by cnf_processing.Rmd
+TRACE [2019-01-05 01:44:43] NEWS.md file not found, creating!
+TRACE [2019-01-05 01:45:11] Saving to data
+TRACE [2019-01-05 01:45:13] Copied documentation to C:/Users/YIHANWU/Documents/Stuff/CAnutrients/R/CAnutrients.R
+TRACE [2019-01-05 01:45:13] Done
+TRACE [2019-01-05 01:45:13] DataPackageR succeeded
+TRACE [2019-01-05 01:45:13] Building documentation
+TRACE [2019-01-05 01:45:17] Building package
+TRACE [2019-01-05 19:04:00] Logging to C:/Users/YIHANWU/Documents/Stuff/CAnutrients/inst/extdata/Logfiles/processing.log
+TRACE [2019-01-05 19:04:00] Processing data
+TRACE [2019-01-05 19:04:01] Reading yaml configuration
+TRACE [2019-01-05 19:04:01] Found C:/Users/YIHANWU/Documents/Stuff/CAnutrients/data-raw/cnf_processing.Rmd
+TRACE [2019-01-05 19:04:01] Processing 1 of 1: C:/Users/YIHANWU/Documents/Stuff/CAnutrients/data-raw/cnf_processing.Rmd
+
+TRACE [2019-01-05 19:04:13] 12 data set(s) created by cnf_processing.Rmd
+TRACE [2019-01-05 19:11:51] Logging to C:/Users/YIHANWU/Documents/Stuff/CAnutrients/inst/extdata/Logfiles/processing.log
+TRACE [2019-01-05 19:11:51] Processing data
+TRACE [2019-01-05 19:11:52] Reading yaml configuration
+TRACE [2019-01-05 19:11:52] Found C:/Users/YIHANWU/Documents/Stuff/CAnutrients/data-raw/cnf_processing.Rmd
+TRACE [2019-01-05 19:11:52] Processing 1 of 1: C:/Users/YIHANWU/Documents/Stuff/CAnutrients/data-raw/cnf_processing.Rmd
+
+TRACE [2019-01-05 19:12:01] 12 data set(s) created by cnf_processing.Rmd
+TRACE [2019-01-05 19:12:04] NEWS.md file found, updating!
+TRACE [2019-01-05 19:13:19] Saving to data
+TRACE [2019-01-05 19:13:21] Copied documentation to C:/Users/YIHANWU/Documents/Stuff/CAnutrients/R/CAnutrients.R
+TRACE [2019-01-05 19:13:21] Done
+TRACE [2019-01-05 19:13:21] DataPackageR succeeded
+TRACE [2019-01-05 19:13:21] Building documentation
+TRACE [2019-01-05 19:13:26] Building package
+TRACE [2019-01-05 20:17:00] Rebuilding data package documentation.
+TRACE [2019-01-08 01:52:09] Rebuilding data package documentation.
+TRACE [2019-02-07 11:54:55] Logging to C:/Users/YIHANWU/Documents/Stuff/CAnutrients/inst/extdata/Logfiles/processing.log
+TRACE [2019-02-07 11:54:55] Processing data
+TRACE [2019-02-07 11:54:55] Reading yaml configuration
+TRACE [2019-02-07 11:54:55] Found C:/Users/YIHANWU/Documents/Stuff/CAnutrients/data-raw/cnf_processing.Rmd
+TRACE [2019-02-07 11:54:55] Processing 1 of 1: C:/Users/YIHANWU/Documents/Stuff/CAnutrients/data-raw/cnf_processing.Rmd
+
+TRACE [2019-02-07 11:55:02] 12 data set(s) created by cnf_processing.Rmd
+TRACE [2019-02-07 11:55:04] Processed data sets match existing data sets at version 0.1.0
+TRACE [2019-02-07 11:55:04] Saving to data
+TRACE [2019-02-07 11:55:06] Copied documentation to C:/Users/YIHANWU/Documents/Stuff/CAnutrients/R/CAnutrients.R
+TRACE [2019-02-07 11:55:06] Done
+TRACE [2019-02-07 11:55:06] DataPackageR succeeded
+TRACE [2019-02-07 11:55:06] Building documentation
+TRACE [2019-02-07 11:55:10] Building package
+TRACE [2019-02-07 11:55:30] Logging to C:/Users/YIHANWU/Documents/Stuff/CAnutrients/inst/extdata/Logfiles/processing.log
+TRACE [2019-02-07 11:55:30] Processing data
+TRACE [2019-02-07 11:55:30] Reading yaml configuration
+TRACE [2019-02-07 11:55:30] Found C:/Users/YIHANWU/Documents/Stuff/CAnutrients/data-raw/cnf_processing.Rmd
+TRACE [2019-02-07 11:55:30] Processing 1 of 1: C:/Users/YIHANWU/Documents/Stuff/CAnutrients/data-raw/cnf_processing.Rmd
+
+TRACE [2019-02-07 11:55:36] 12 data set(s) created by cnf_processing.Rmd
+TRACE [2019-02-07 11:55:38] Processed data sets match existing data sets at version 0.1.0
+TRACE [2019-02-07 11:55:38] Saving to data
+TRACE [2019-02-07 11:55:39] Copied documentation to C:/Users/YIHANWU/Documents/Stuff/CAnutrients/R/CAnutrients.R
+TRACE [2019-02-07 11:55:39] Done
+TRACE [2019-02-07 11:55:39] DataPackageR succeeded
+TRACE [2019-02-07 11:55:39] Building documentation
+TRACE [2019-02-07 11:55:42] Building package
+TRACE [2019-02-07 11:57:55] Rebuilding data package documentation.
+TRACE [2019-02-07 12:08:58] Logging to C:/Users/YIHANWU/Documents/Stuff/CAnutrients/inst/extdata/Logfiles/processing.log
+TRACE [2019-02-07 12:08:58] Processing data
+TRACE [2019-02-07 12:08:58] Reading yaml configuration
+TRACE [2019-02-07 12:08:58] Found C:/Users/YIHANWU/Documents/Stuff/CAnutrients/data-raw/cnf_processing.Rmd
+TRACE [2019-02-07 12:08:58] Processing 1 of 1: C:/Users/YIHANWU/Documents/Stuff/CAnutrients/data-raw/cnf_processing.Rmd
+
+TRACE [2019-02-07 12:09:04] 12 data set(s) created by cnf_processing.Rmd
+TRACE [2019-02-07 12:09:06] Processed data sets match existing data sets at version 0.1.0
+TRACE [2019-02-07 12:09:06] Saving to data
+TRACE [2019-02-07 12:09:08] Copied documentation to C:/Users/YIHANWU/Documents/Stuff/CAnutrients/R/CAnutrients.R
+TRACE [2019-02-07 12:09:08] Done
+TRACE [2019-02-07 12:09:08] DataPackageR succeeded
+TRACE [2019-02-07 12:09:08] Building documentation
+TRACE [2019-02-07 12:09:10] Building package
+TRACE [2019-02-07 12:12:27] Logging to C:/Users/YIHANWU/Documents/Stuff/CAnutrients/inst/extdata/Logfiles/processing.log
+TRACE [2019-02-07 12:12:27] Processing data
+TRACE [2019-02-07 12:12:27] Reading yaml configuration
+TRACE [2019-02-07 12:12:27] Found C:/Users/YIHANWU/Documents/Stuff/CAnutrients/data-raw/cnf_processing.Rmd
+TRACE [2019-02-07 12:12:27] Processing 1 of 1: C:/Users/YIHANWU/Documents/Stuff/CAnutrients/data-raw/cnf_processing.Rmd
+
+TRACE [2019-02-07 12:12:32] 12 data set(s) created by cnf_processing.Rmd
+TRACE [2019-02-07 12:12:34] Processed data sets match existing data sets at version 0.1.0
+TRACE [2019-02-07 12:12:34] Saving to data
+TRACE [2019-02-07 12:12:36] Copied documentation to C:/Users/YIHANWU/Documents/Stuff/CAnutrients/R/CAnutrients.R
+TRACE [2019-02-07 12:12:36] Done
+TRACE [2019-02-07 12:12:36] DataPackageR succeeded
+TRACE [2019-02-07 12:12:36] Building documentation
+TRACE [2019-02-07 12:12:37] Building package
+TRACE [2019-02-07 12:14:18] Logging to C:/Users/YIHANWU/Documents/Stuff/CAnutrients/inst/extdata/Logfiles/processing.log
+TRACE [2019-02-07 12:14:18] Processing data
+TRACE [2019-02-07 12:14:18] Reading yaml configuration
+TRACE [2019-02-07 12:14:18] Found C:/Users/YIHANWU/Documents/Stuff/CAnutrients/data-raw/cnf_processing.Rmd
+TRACE [2019-02-07 12:14:18] Processing 1 of 1: C:/Users/YIHANWU/Documents/Stuff/CAnutrients/data-raw/cnf_processing.Rmd
+
+TRACE [2019-02-07 12:14:24] 12 data set(s) created by cnf_processing.Rmd
+TRACE [2019-02-07 12:14:26] Processed data sets match existing data sets at version 0.1.0
+TRACE [2019-02-07 12:14:26] Saving to data
+TRACE [2019-02-07 12:14:27] Copied documentation to C:/Users/YIHANWU/Documents/Stuff/CAnutrients/R/CAnutrients.R
+TRACE [2019-02-07 12:14:27] Done
+TRACE [2019-02-07 12:14:27] DataPackageR succeeded
+TRACE [2019-02-07 12:14:27] Building documentation
+TRACE [2019-02-07 12:14:29] Building package
+TRACE [2019-02-07 12:20:22] Rebuilding data package documentation.
+TRACE [2019-02-07 12:26:30] Logging to C:/Users/YIHANWU/Documents/Stuff/CAnutrients/inst/extdata/Logfiles/processing.log
+TRACE [2019-02-07 12:26:30] Processing data
+TRACE [2019-02-07 12:26:30] Reading yaml configuration
+TRACE [2019-02-07 12:26:30] Found C:/Users/YIHANWU/Documents/Stuff/CAnutrients/data-raw/cnf_processing.Rmd
+TRACE [2019-02-07 12:26:30] Processing 1 of 1: C:/Users/YIHANWU/Documents/Stuff/CAnutrients/data-raw/cnf_processing.Rmd
+
+TRACE [2019-02-07 12:26:35] 12 data set(s) created by cnf_processing.Rmd
+TRACE [2019-02-07 12:26:37] Processed data sets match existing data sets at version 0.1.0
+TRACE [2019-02-07 12:26:37] Saving to data
+TRACE [2019-02-07 12:26:38] Copied documentation to C:/Users/YIHANWU/Documents/Stuff/CAnutrients/R/CAnutrients.R
+TRACE [2019-02-07 12:26:38] Done
+TRACE [2019-02-07 12:26:38] DataPackageR succeeded
+TRACE [2019-02-07 12:26:38] Building documentation
+TRACE [2019-02-07 12:26:40] Building package

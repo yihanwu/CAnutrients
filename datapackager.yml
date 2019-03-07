@@ -1,0 +1,19 @@
+configuration:
+  files:
+    cnf_processing.Rmd:
+      enabled: yes
+  objects:
+  - ca_food_name
+  - ca_nutrient_amount
+  - ca_conversion_factor
+  - ca_refuse_amount
+  - ca_yield_amount
+  - ca_food_group
+  - ca_food_source
+  - ca_nutrient_name
+  - ca_nutrient_source
+  - ca_measure_name
+  - ca_refuse_name
+  - ca_yield_name
+  render_root:
+    tmp: '709855'

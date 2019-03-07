@@ -1,0 +1,20 @@
+Package: CAnutrients
+Title: Canada Nutrient File 2015 datasets
+Version: 1.0
+Authors@R: 
+    person(given = "Yihan",
+           family = "Wu",
+           role = c("aut", "cre"),
+           email = "yihan.wu@queensu.ca")
+Description: Tidied Canada Nutrient File (CNF) datasets for use downloaded as-is from Health Canada.
+License: Refer to copyright guidelines at Health Canada
+Encoding: UTF-8
+LazyData: true
+DataVersion: 0.1.0
+Roxygen: list(markdown = TRUE)
+Date: 2019-02-07
+Suggests: 
+    knitr,
+    rmarkdown
+VignetteBuilder: knitr
+RoxygenNote: 6.1.0
